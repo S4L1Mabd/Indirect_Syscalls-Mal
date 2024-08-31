@@ -1,0 +1,6 @@
+﻿  Mylib.c
+C:\Users\Win-Malware01\Desktop\Malwares folder\CROW\InDrct_Sycall\InDrct_Sycall\Mylib.c(77,23): warning C4312: 'cast de type' : la conversion de 'const DWORD' en 'HANDLE' d'une taille supérieure
+C:\Users\Win-Malware01\Desktop\Malwares folder\CROW\InDrct_Sycall\InDrct_Sycall\Mylib.c(108,65): warning C4090: 'fonction' : qualificateurs 'const' différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\CROW\InDrct_Sycall\InDrct_Sycall\Mylib.c(122,61): warning C4090: 'fonction' : qualificateurs 'const' différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\CROW\InDrct_Sycall\InDrct_Sycall\Mylib.c(143,62): warning C4090: 'fonction' : qualificateurs 'const' différents
+  InDrct_Sycall.vcxproj -> C:\Users\Win-Malware01\Desktop\Malwares folder\CROW\InDrct_Sycall\x64\Debug\InDrct_Sycall.exe
